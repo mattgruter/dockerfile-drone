@@ -11,5 +11,5 @@ EXPOSE 80
 
 VOLUME /var/lib/drone
 
-CMD /etc/init.d/docker.io start && /usr/local/bin/droned --port=:80 --datasource=/var/lib/drone/drone.sqlite
+CMD /etc/init.d/docker start && /usr/local/bin/droned --port=:80 --datasource=/var/lib/drone/drone.sqlite
 
