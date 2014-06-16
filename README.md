@@ -1,8 +1,8 @@
 # Drone
 
-[mattgruter/drone](https://registry.hub.docker.com/u/mattgruter/drone/).
-
 Run [Drone CI](http://drone.io/) in a [Docker](http://docker.io/) container.
+
+Link: [mattgruter/drone](https://registry.hub.docker.com/u/mattgruter/drone/)
 
 
 ## Run
